@@ -1,0 +1,38 @@
+<h3>{{name}}</h3>
+
+<div>Xin chào anh/chị,</div>
+<div>Hệ thống vừa cập nhật thông tin lương mới!</div>
+<br/>
+<div>Họ và tên: {{data.user.name.first}} {{data.user.name.last}}</div>
+<div>Tháng lương: {{period.month}} năm {{period.year}}</div>
+<div>Loại lương: Lương giảng dạy</div>
+<br/>
+
+<table border="1" cellspacing="0" cellpadding="2">
+    <thead>
+        <tr>
+            <th>Số tiết đăng ký giảng dạy</th>
+            <th>Tổng số tiết quy đổi</th>
+            <th>Giờ coi thi</th>
+            <th>Trừ tiết chuẩn giảng dạy</th>
+            <th>Trừ tiết chuẩn NCKH</th>
+            <th>Tổng tiết chuẩn</th>
+            <th>Tổng số tiết sau khi trừ giờ chuẩn</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{data.lessons.value}}</td>
+            <td>{{data.exchangedLessons.value}}</td>
+            <td>{{data.superviseExam.value}}</td>
+            <td>{{data.subTeach.value}}</td>
+            <td>{{data.subResearch.value}}</td>
+            <td>{{data.subSum.value}}</td>
+            <td>{{data.lessonSum.value}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Thành tiền: {{toCurrency data.sum.value}}</h3>
+
+<div>Nếu có bất kì phản hồi hãy truy cập trang abc.com để được giải quyết</div>

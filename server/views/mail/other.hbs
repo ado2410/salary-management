@@ -1,0 +1,30 @@
+<h3>Khoản lương khác tháng {{period.month}} năm {{period.year}}</h3>
+
+<div>Xin chào anh/chị,</div>
+<div>Hệ thống vừa cập nhật thông tin lương mới!</div>
+<br/>
+<div>Họ và tên: {{user.name.first}} {{user.name.last}}</div>
+<div>Tháng lương: {{period.month}} năm {{period.year}}</div>
+<div>Loại lương: Khoản lương khác</div>
+<br/>
+
+<table border="1" cellspacing="0" cellpadding="2">
+    <thead>
+        <tr>
+            <th>Tên lương</th>
+            <th>Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each data}}
+        <tr>
+            <td>{{this.name}}</td>
+            <td>{{toCurrency this.sum.value}}</td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
+
+<h3>Thành tiền: {{toCurrency sum}}</h3>
+
+<div>Nếu có bất kì phản hồi hãy truy cập trang abc.com để được giải quyết</div>
