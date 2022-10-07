@@ -25,23 +25,28 @@ Do đó, nhóm chúng em chọn đề tài “Website quản lý thu nhập cá 
 ## IV. Hình ảnh Demo
 ### 1. Chức năng của Cán bộ - Giảng viên
 #### a. Trang chủ
+Trang chủ khi Cán bộ - Giảng viên truy cập vào tài khoản, giao diện hiển thị thông tin tháng lương và bài đăng thông báo mới nhất
 | ![image](https://user-images.githubusercontent.com/15710296/194470300-14652e9b-cf01-474f-ab6c-cc3e3c862214.png) |
 |:-:|
 | *Trang chủ* |
 #### b. Xem và phản hồi lương
+Xem chi tiết khoản lương trong một tháng
 | <img src="https://user-images.githubusercontent.com/15710296/194470459-dcf0e652-500f-4cbd-8abd-d2f64d0b7c5d.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470512-8a6677c5-6eec-40e6-bc37-b5d365d9f7e4.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470549-6d1e7c94-6e9d-403a-95b3-e7e5b1b96e4a.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470562-64c5fa88-03fa-4136-9aac-55a08cebaf07.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470579-10f77ea3-9769-416b-be56-bc6cd94bbc4b.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470592-11481265-896c-4aae-9176-cc86c659517a.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194470602-809a7a4f-f508-48e0-8dc2-babbf7649394.png" height="200" /> |
 |:-:|
 | *Xem và phản hồi lương* |
 ### 2. Chức năng của quản trị viên
 #### a. Quản lý lương
+Quản lý thông tin lương các tháng của Cán bộ - Giảng viên
 | <img src="https://user-images.githubusercontent.com/15710296/194471187-2ea3fb70-40bb-4b75-8d9b-abe49369ab40.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471201-701fac25-6696-413a-bc5d-67a6178e747c.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471214-f5e47ced-751f-4327-ab51-a9d2f40b320a.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471225-9358fe27-ca12-488c-a1a8-852eb21fad48.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471231-84ede23b-f04c-407e-b5a4-f1fd2a2e38d7.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471243-e25efed8-6d7f-4fb3-a8fe-e0d2b0ac5170.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471248-e7ea5c6a-6f13-4078-a366-0ccc7bdc911b.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471262-8fc2bf44-1369-4ab9-9e43-c7465da925cf.png" height="200" /> |
 |:-:|
 | *Giao diện quản lý lương* |
 #### b. Nhập lương
+Nhập thông tin lương từ file Excel nhanh chóng
 | <img src="https://user-images.githubusercontent.com/15710296/194471330-9d4e087a-45ec-4260-9c57-05e31fb0cf03.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471344-295f9748-5ff0-4050-98cf-3204cceaee9e.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471358-754170eb-b027-4029-9248-766244d7f57b.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471391-8cb9dfbe-eef7-4871-afcb-76e45c7078c1.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471398-96105d6b-93c7-4457-b3b6-3005b92fa080.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471432-aab28404-1704-4e6f-93c2-f3061836b6e5.png" height="200" /> |
 |:-:|
 | *Giao diện nhập lương* |
 #### c. Quản lý bài đăng thông báo
+Quản lý các bài đăng thông báo
 | <img src="https://user-images.githubusercontent.com/15710296/194471446-ab92666d-658a-4761-ada8-bcbb6aaf8471.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471453-5fd62d7f-3c62-4c31-b1a0-00f1c9114425.png" height="200" /> |
 |:--:|
 | *Giao diện quản lý bài đăng thông báo* |
