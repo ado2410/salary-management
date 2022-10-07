@@ -46,4 +46,4 @@ Do đó, nhóm chúng em chọn đề tài “Website quản lý thu nhập cá 
 |:--:|
 | *Giao diện quản lý bài đăng thông báo* |
 #
-Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_SalaryManagement.pdf](https://github.com/jennydo2000/salary-management/blob/master/BaoCao_SalaryManager.pdf)
+Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_SalaryManagement.pdf](https://github.com/jennydo2000/salary-management/blob/master/BaoCao_SalaryManagement.pdf)
