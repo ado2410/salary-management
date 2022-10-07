@@ -45,3 +45,5 @@ Do đó, nhóm chúng em chọn đề tài “Website quản lý thu nhập cá 
 | <img src="https://user-images.githubusercontent.com/15710296/194471446-ab92666d-658a-4761-ada8-bcbb6aaf8471.png" height="200" /><img src="https://user-images.githubusercontent.com/15710296/194471453-5fd62d7f-3c62-4c31-b1a0-00f1c9114425.png" height="200" /> |
 |:--:|
 | *Giao diện quản lý bài đăng thông báo* |
+#
+Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_TPManagement.pdf](https://github.com/jennydo2000/salary-management/blob/master/BaoCao_SalaryManager.pdf)
